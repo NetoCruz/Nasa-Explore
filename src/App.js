@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Header />
+      {/* <Header /> */}
       <NasaApi />
       <Rover />
     </div>

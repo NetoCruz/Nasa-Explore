@@ -1,4 +1,4 @@
-header.masthead {
+/* header.masthead {
   position: relative;
   background-color: #343a40;
   background: url("../images/nasa.jpg") no-repeat center center;
@@ -15,7 +15,7 @@ header.masthead .overlay {
   top: 0;
   left: 0;
   opacity: 0.3;
-}
+} */
 
 .showcase .showcase-text {
   padding: 3rem;

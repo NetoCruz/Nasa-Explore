@@ -37,7 +37,7 @@ class NasaApi extends Component {
     return (
       <div>
         <Photos
-          character={this.state.data.results.date}
+          character={this.state.data.results.copyright}
           explanation={this.state.data.results.explanation}
           img={this.state.data.results.url}
         />
