@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nasa-Explore/static/css/main.01db8db3.chunk.css",
+    "main.js": "/Nasa-Explore/static/js/main.547d0916.chunk.js",
+    "main.js.map": "/Nasa-Explore/static/js/main.547d0916.chunk.js.map",
+    "runtime~main.js": "/Nasa-Explore/static/js/runtime~main.49bae55c.js",
+    "runtime~main.js.map": "/Nasa-Explore/static/js/runtime~main.49bae55c.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/Nasa-Explore/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.9a9b0ec4.chunk.js": "/Nasa-Explore/static/js/2.9a9b0ec4.chunk.js",
+    "static/js/2.9a9b0ec4.chunk.js.map": "/Nasa-Explore/static/js/2.9a9b0ec4.chunk.js.map",
+    "index.html": "/Nasa-Explore/index.html",
+    "precache-manifest.a902886e9b3bcbe21395e771d301b299.js": "/Nasa-Explore/precache-manifest.a902886e9b3bcbe21395e771d301b299.js",
+    "service-worker.js": "/Nasa-Explore/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/Nasa-Explore/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.01db8db3.chunk.css.map": "/Nasa-Explore/static/css/main.01db8db3.chunk.css.map",
+    "static/media/NASA.svg": "/Nasa-Explore/static/media/NASA.ee15e8fa.svg",
+    "static/media/logo.svg": "/Nasa-Explore/static/media/logo.5d5d9eef.svg"
+  }
+}
