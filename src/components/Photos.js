@@ -16,6 +16,7 @@ class Photos extends Component {
 
       color: "white"
     };
+
     return (
       <div>
         <header class="masthead" style={selectStyle}>
@@ -29,7 +30,7 @@ class Photos extends Component {
           </div>
         </header>
         <div style={textStyle}>
-          <p>{this.props.explanation}</p>
+          <p className="mb-0">{this.props.explanation}</p>
         </div>
         {/* <section class="showcase">
           <h1>Foto del Día</h1>
